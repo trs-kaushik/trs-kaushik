@@ -16,11 +16,11 @@
 ### Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/-23F7931E.svg?style=for-the-badge&logo=R&logoColor=blue)
+![R](https://img.shields.io/badge/R-23013243.svg?style=for-the-badge&logo=R&logoColor=blue)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-323330.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=orange)
-![DBT](https://img.shields.io/badge/DBT-323330.svg?style=for-the-badge&logo=dbt&logoColor=orange)
+![DBT](https://img.shields.io/badge/DBT-23150458.svg?style=for-the-badge&logo=dbt&logoColor=orange)
 ![Airflow](https://img.shields.io/badge/Airflow-3670A0.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Spark-FFFFFF.svg?style=for-the-badge&logo=Apache-Spark&logoColor=orange)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-005C84.svg?style=for-the-badge&logo=Apache-Kafka&logoColor=black)
