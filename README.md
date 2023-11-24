@@ -5,7 +5,7 @@
 
 - 🔭 I am a current graduate computer science student at the University at Buffalo, State University of New York
 - 🌱 I am always keen in exploring new facets of data analytics and data engineering
-- 👯 You can enjoy articles and applications from data science, data engineering, and natural language processing in this repository
+- 👯 You can enjoy the codebase from data science, data engineering, and natural language processing in this repository
 - 🤔 I’m looking for an opportunity in the analytical and data engineering sector
 - 🤝 How to connect with me: kthogulu@buffalo.edu | [LinkedIn](https://linkedin.com/in/kaushikkumartrs)
 
