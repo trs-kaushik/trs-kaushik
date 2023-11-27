@@ -11,8 +11,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trs-kaushik&layout=compact&theme=dark&hide_border=True)](https://github.com/trs-kaushik)
-
 ### Technical Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
